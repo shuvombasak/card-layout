@@ -1,0 +1,13 @@
+
+.actives p{
+	background-color:tomato;
+}
+.actives a:link{
+	background-color:yellow;
+}
+.actives a:hover{
+	background-color:red;
+}
+.actives a:visited{
+	background-color:black;
+}
